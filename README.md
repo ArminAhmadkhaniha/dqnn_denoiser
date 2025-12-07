@@ -28,3 +28,19 @@ To install dependencies:
 pip install -r requirements.txt
 
 ```
+
+### Citation
+if you use this code or the results in your research, please cite our paper:
+@article{PhysRevA.109.032620,
+  title = {Dissipative quantum neural network accompanied by conjugate layers for denoising a noisy $m$-qubit GHZ state},
+  author = {Your Name and Co-Authors},
+  journal = {Phys. Rev. A},
+  volume = {109},
+  issue = {3},
+  pages = {032620},
+  numpages = {10},
+  year = {2024},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevA.109.032620},
+  url = {[https://link.aps.org/doi/10.1103/PhysRevA.109.032620](https://link.aps.org/doi/10.1103/PhysRevA.109.032620)}
+}
